@@ -3,5 +3,3 @@ mono: none
 dotnet: 1.1.0
 solution: Chat.sln
 dist: trusty
-install:
-- nuget restore Chat.sln
