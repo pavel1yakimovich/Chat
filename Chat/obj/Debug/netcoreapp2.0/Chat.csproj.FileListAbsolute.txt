@@ -1,0 +1,11 @@
+E:\Samples\Chat\Chat\bin\Debug\netcoreapp2.0\Chat.deps.json
+E:\Samples\Chat\Chat\bin\Debug\netcoreapp2.0\Chat.runtimeconfig.json
+E:\Samples\Chat\Chat\bin\Debug\netcoreapp2.0\Chat.runtimeconfig.dev.json
+E:\Samples\Chat\Chat\bin\Debug\netcoreapp2.0\Chat.dll
+E:\Samples\Chat\Chat\bin\Debug\netcoreapp2.0\Chat.pdb
+E:\Samples\Chat\Chat\obj\Debug\netcoreapp2.0\Chat.csprojResolveAssemblyReference.cache
+E:\Samples\Chat\Chat\obj\Debug\netcoreapp2.0\Chat.csproj.CoreCompileInputs.cache
+E:\Samples\Chat\Chat\obj\Debug\netcoreapp2.0\Chat.AssemblyInfoInputs.cache
+E:\Samples\Chat\Chat\obj\Debug\netcoreapp2.0\Chat.AssemblyInfo.cs
+E:\Samples\Chat\Chat\obj\Debug\netcoreapp2.0\Chat.dll
+E:\Samples\Chat\Chat\obj\Debug\netcoreapp2.0\Chat.pdb
