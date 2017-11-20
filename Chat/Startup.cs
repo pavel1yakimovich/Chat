@@ -44,7 +44,7 @@ namespace Chat
             }
             else
             {
-                app.UseExceptionHandler("/Home/Error");
+                app.UseExceptionHandler("/Chat/Error");
             }
 
             app.UseStaticFiles();
@@ -53,7 +53,7 @@ namespace Chat
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    template: "{controller=Chat}/{action=Index}/{id?}");
             });
         }
     }
